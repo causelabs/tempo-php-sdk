@@ -2,7 +2,7 @@
     "name": "causelabs/tempo-php-sdk",
     "description": "A PHP SDK to facilitate working with Atlassian's Tempo servlet API",
     "require": {
-        "guzzle/guzzle": "^3.9"
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*"
